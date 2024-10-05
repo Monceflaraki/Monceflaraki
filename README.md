@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Monceflaraki
-- 👀 I’m interested in Networking
-- 🌱 I’m currently learning Python as my first language
+- 👀 I’m interested in Cloud Computing & Devops
+- 🌱 I’m currently learning Kubernetes & AWS
 - 📫 How to reach me : moncef.fissellaraki@gmail.com
